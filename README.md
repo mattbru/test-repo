@@ -30,7 +30,7 @@ LREM is an adaptation of REM \(Reference Electrification Model\) for local elect
 4. Results Output
 
 ![Workflow](documentation/workflow.PNG)
-Utilization Sequence of LREM
+Figure Showing the Utilization Sequence of LREM
 
 ## Running LREM
 
